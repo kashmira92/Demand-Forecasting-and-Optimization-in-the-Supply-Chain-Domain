@@ -15,6 +15,10 @@ Feature Engineering: Engineered over 200 features, including lagged variables, h
 
 ## Model Optimization
 Model Optimization: Utilized randomized search CV to optimize the hyperparameters of the LightGBM model, achieving boosted performance on over 10 million records.
+
+![demand_forecasting](https://github.com/kashmira92/Demand-Forecasting-and-Optimization-in-the-Supply-Chain-Domain/assets/48323327/e07f0e5c-7c14-4995-8a82-f741f841f956)
+
+
 ## Fine-Tuning and Results
 Fine-Tuning: Applied early stopping and reduced the number of features to 89 for the model. This fine-tuning resulted in a 12% SMAPE (Symmetric Mean Absolute Percentage Error), significantly improving inventory planning.
 
